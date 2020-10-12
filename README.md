@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Alexander, and I am studying a Full Stack Web Development Bootcamp in Madrid 🌱.
+
+I love coding, so if you have an interesting project, don't doubt to contact me through my social networks or by sending me an email to: alexanderzitocastilla@gmail.com 📫.
+
+May the code be with you 👨‍💻👩‍💻
 <!--
 **alexcastillla/alexcastillla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
