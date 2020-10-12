@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 🦊👋
 
 My name is <b>Alexander</b>, and I am studying a <b>Full Stack Web Development Bootcamp</b> in <b>Madrid</b> 🌱.
 
