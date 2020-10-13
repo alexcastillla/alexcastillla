@@ -2,7 +2,7 @@
 
 My name is <b>Alexander</b>, and I am studying a <b>Full Stack Web Development Bootcamp</b> in <b>Madrid</b> 🌱.
 
-I <b>love coding</b>, so if you have an interesting project, don't doubt to contact me through my <b>social networks</b> or by sending me an <b>email</b> to: <b>alexanderzitocastilla@gmail.com</b> 📫.
+<b>I ❤ coding</b>, so if you have an interesting project, don't doubt to contact me through my <b>social networks</b> or by sending me an <b>email</b> to: <b>alexanderzitocastilla@gmail.com</b> 📫.
 
 <b>May the code be with you</b> 👨‍💻👩‍💻
 <!--
