@@ -1,7 +1,7 @@
 ### Hi there! 🦊👋
 
 
-<a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img src="https://i.ibb.co/mD1FMHB/Captura.png" alt="Captura" border="0"></a>
+<img src="https://i.ibb.co/7S9t5dK/Captura.png" alt="Captura" border="0">
 <a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img src="https://i.ibb.co/YRLgWqS/image-processing20191218-32115-1jvyouu.gif" alt="image-processing20191218-32115-1jvyouu" border="0"></a>
 
 
