@@ -1,6 +1,9 @@
 ### Hi there! 🦊👋
 
-<a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img src="https://i.ibb.co/WDgKWF1/intro.jpg" alt="alexcastillla" border="0" /></a>
+
+<a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img src="https://i.ibb.co/mD1FMHB/Captura.png" alt="Captura" border="0"></a>
+<a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img src="https://i.ibb.co/YRLgWqS/image-processing20191218-32115-1jvyouu.gif" alt="image-processing20191218-32115-1jvyouu" border="0"></a>
+
 
 My name is <b>Alexander</b>, and I am studying a <b>Full Stack Web Development Bootcamp</b> in <b>Madrid</b> 🌱.
 
