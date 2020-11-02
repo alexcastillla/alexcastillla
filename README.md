@@ -1,4 +1,4 @@
-### Hi there! I'm Alexander - aka alexcastillla 🦊👋
+### Hi there! 👋 I'm Alexander - aka alexcastillla 🦊
 
 
 <a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img align="center" src="https://i.ibb.co/dfh4qwD/Captura.png" alt="alexcastillla" border="0" /></a>
