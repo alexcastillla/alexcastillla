@@ -8,13 +8,13 @@ I'm studying a <b>Full Stack Web Development Bootcamp</b> in <b>Madrid</b> 🌱.
 
 <b>I ❤ coding</b>, so if you have an interesting project, don't doubt to contact me through my <b>social networks</b> or by sending me an <b>email</b> to: <b>alexanderzitocastilla@gmail.com</b> 📫.
 
-<b>May the code be with you</b> 👨‍💻👩‍💻
+<b>May the code be with you </b><img width="18px" src="https://cdn3.iconfinder.com/data/icons/star-wars-color/180/jawa-512.png" /></a> 
 
 ### My social networks:
 
-<a href="https://twitter.com/alexcastillla/"><img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/alexcastillla/"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://twitter.com/alexcastillla/"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/alexcastillla/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <br />
 
