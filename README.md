@@ -12,9 +12,9 @@ I'm studying a <b>Full Stack Web Development Bootcamp</b> in <b>Madrid</b> 🌱.
 
 ### My social networks:
 
-<a href="https://twitter.com/alexcastillla/"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/alexcastillla/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://twitter.com/alexcastillla/"><img align="left" alt="Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" /></a>
+<a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" /></a>
+<a href="https://www.instagram.com/alexcastillla/"><img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" /></a>
 
 <br />
 
