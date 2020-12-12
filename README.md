@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Alexander - aka alexcastillla 🦊
+<h1 align="center"> Hi there! 👋 I'm Alexander - aka alexcastillla 🦊</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img src="https://i.ibb.co/dfh4qwD/Captura.png" alt="alexcastillla" border="0" /></a>
@@ -13,9 +13,9 @@
 
 ## My social networks: 
 
-<a href="https://twitter.com/alexcastillla/"><img alt="Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" /></a>
 <a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" /></a>
 <a href="https://www.instagram.com/alexcastillla/"><img alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" /></a>
+<a href="https://twitter.com/alexcastillla/"><img alt="Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" /></a>
 <br />
 
 ## Languages and Tools:
@@ -35,7 +35,7 @@
 
 ## My GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexcastillla)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexcastillla&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
