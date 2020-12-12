@@ -16,21 +16,21 @@
 <p align="center"><a href="https://twitter.com/alexcastillla/"><img alt="Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" /></a>
 <a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" /></a>
 <a href="https://www.instagram.com/alexcastillla/"><img alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" /></a></p>
-
 <br />
 
 ## Languages and Tools:
+
 <p align="center">
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" />
-<img align="left" alt="Bootstrap" width="26px" src="https://tiposdeide.files.wordpress.com/2018/10/bootstrap-stack.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/ios/452/python.png" />
-<img align="left" alt="MySQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1199/1199128.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg" /></p>
+<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img alt="JavaScript" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" />
+<img alt="Bootstrap" width="26px" src="https://tiposdeide.files.wordpress.com/2018/10/bootstrap-stack.png" />
+<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img" alt="Python" width="26px" src="https://img.icons8.com/ios/452/python.png" />
+<img alt="MySQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1199/1199128.svg" />
+<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img alt="Visual Studio Code" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg" /></p>
 
 <br />
 
