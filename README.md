@@ -4,12 +4,13 @@
 <a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img src="https://i.ibb.co/r7305bp/whitebanner.png" alt="alexcastillla" border="0" /></a>
 </p>
 
-<p align="center">I'm a <b>Full Stack Developer</b> from Madrid and currently looking for new projects to join ❤</p>
-<p align="center">If you have an interesting project, don't doubt to contact me through my <b>social networks</b> 📫</p>
+<p align="center">I'm a <b>Full Stack Developer</b> from Madrid and currently looking for new projects to join 🚀</p>
 
-<p align="center">I'm a junior developer who is passionate about solving problems, enthusiastic about connecting people and technology, and enjoying studying new languages and tools.</p>
+<p align="center">I'm a junior developer who is passionate about solving problems, enthusiastic about connecting people and technology, and enjoying studying new languages and tools. 💻</p>
 
-<p align="center">Some technologies I enjoy working with include ReactJS, JavaScript, APIs, Python and MySQL.</p>
+<p align="center">If you have an interesting project, don't doubt to contact me through my <b>social networks</b> 📧</p>
+
+<p align="center">Some technologies I enjoy working with include JavaScript, React, Python and SQL.</p>
 
 ## My social networks: 
 
