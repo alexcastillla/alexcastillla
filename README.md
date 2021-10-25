@@ -14,31 +14,10 @@
 
 ## My social networks: 
 
-<a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" /></a>
-<a href="https://www.instagram.com/alexcastillla/"><img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" /></a>
+<a href="https://www.linkedin.com/in/alexanderzitocastilla/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" /></a>
+<a href="https://www.instagram.com/alexcastillla/"><img align="left" alt="Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/25_social-256.png" /></a>
 <a href="https://twitter.com/alexcastillla/"><img align="left" alt="Twitter" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-twitter-256.png" /></a>
 <br />
-
-## Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" />
-<img align="left" alt="Bootstrap" width="26px" src="https://tiposdeide.files.wordpress.com/2018/10/bootstrap-stack.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-256.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="26px" src="https://img.icons8.com/ios/452/python.png" />
-<img align="left" alt="MySQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1199/1199128.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg" />
-
-<br />
-
-## My GitHub Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexcastillla&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
